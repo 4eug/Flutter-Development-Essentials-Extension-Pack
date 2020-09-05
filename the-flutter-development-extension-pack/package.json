@@ -1,0 +1,32 @@
+{
+  "name": "the-flutter-development-extension-pack",
+  "displayName": "The Flutter Development Extension Pack",
+  "description": "An Extension pack which includes some important extension for Flutter Development.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "gornivv.vscode-flutter-files",
+    "Nash.awesome-flutter-snippets",
+    "Dart-Code.dart-code",
+    "BendixMa.dart-data-class-generator",
+    "Dart-Code.flutter",
+    "alexisvt.flutter-snippets",
+    "KnisterPeter.vscode-github",
+    "eamodio.gitlens",
+    "marcelovelasquez.flutter-tree",
+    "MS-vsliveshare.vsliveshare",
+    "adpyke.codesnap",
+    "CoenraadS.bracket-pair-colorizer",
+    "hnw.vscode-auto-open-markdown-preview",
+    "humao.rest-client",
+    "aaron-bond.better-comments",
+    "vscode-icons-team.vscode-icons",
+    "PKief.material-icon-theme",
+    "wwm.better-align"
+  ]
+}

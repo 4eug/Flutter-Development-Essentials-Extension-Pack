@@ -27,6 +27,7 @@
     "aaron-bond.better-comments",
     "vscode-icons-team.vscode-icons",
     "PKief.material-icon-theme",
-    "wwm.better-align"
+    "wwm.better-align",
+    "jeroen-meijer.pubspec-assist"
   ]
 }
